@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Plantillas de Repositorio en GitHub"
+authors:
+  - family-names: "Jara Moya"
+    given-names: "Santiago David"
+    affiliation: "Universidad Técnica de Ambato"
+date-released: 2025-10-17
+version: "1.0"
+url: "https://github.com/tuusuario/plantillas-github"
+message: "Si utilizas este repositorio, por favor cítalo como se indica aquí."
